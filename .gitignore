@@ -34,3 +34,13 @@ Thumbs.db
 # Ignore IDE specific files
 .idea/
 .vscode/
+
+# Extensions
+*.mat
+*.npy
+*.ipynb_checkpoints
+*.h5
+
+# Folders
+/data/generation/
+/cnn/hyperband_search_results
