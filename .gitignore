@@ -43,4 +43,4 @@ Thumbs.db
 
 # Folders
 /data/generation/
-/cnn/hyperband_search_results
+/cnn/hyperparameter_search
