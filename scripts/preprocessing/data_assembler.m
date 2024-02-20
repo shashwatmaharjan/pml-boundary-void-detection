@@ -20,6 +20,9 @@ raw_data_folders = {raw_data_folders.name};
 % Rename raw_data_folders to void_folders
 void_folders = raw_data_folders;
 
+% Remove the .gitkeep file from the list
+void_folders = void_folders(~strcmp(void_folders, '.gitkeep'));
+
 %% Data Stack
 % Loop through all the folders
 for n_void = 1:length(void_folders)
