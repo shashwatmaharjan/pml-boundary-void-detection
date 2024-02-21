@@ -40,6 +40,7 @@ Thumbs.db
 *.npy
 *.ipynb_checkpoints
 *.h5
+*.pdf
 
 # Folders
 /data/generation/
