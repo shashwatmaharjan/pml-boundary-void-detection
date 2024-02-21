@@ -11,7 +11,7 @@ raw_data_directory = fullfile(current_directory, '..', '..', 'blind_data', 'raw'
 assembled_data_directory = fullfile(current_directory, '..', '..', 'blind_data', 'assembled');
 
 % List the samples that exists in the folder
-samples = [1, 2, 3, 4, 5, 6, 7, 11, 12, 13, 14];
+samples = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19];
 
 %% Data Stack
 % Loop through all the folders
