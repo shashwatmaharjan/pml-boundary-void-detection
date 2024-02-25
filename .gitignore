@@ -45,3 +45,4 @@ Thumbs.db
 # Folders
 /data/generation/
 /cnn/hyperparameter_search
+/residual/hyperparameter_search
